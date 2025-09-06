@@ -35,6 +35,19 @@ This is an open-source version of apps like [Anthropic's Claude Artifacts](https
 
 ## Get started
 
+📖 **For detailed step-by-step instructions, see [RUNNING.md](RUNNING.md)**
+
+### Quick Start
+
+```bash
+git clone https://github.com/sid0791/CodingIT.git
+cd CodingIT
+chmod +x setup.sh
+./setup.sh
+```
+
+Then edit `.env.local` with your API keys and run `npm run dev`.
+
 ### Prerequisites
 
 - [git](https://git-scm.com)
