@@ -35,9 +35,19 @@ This is an open-source version of apps like [Anthropic's Claude Artifacts](https
 
 ## Get started
 
-📖 **For detailed step-by-step instructions, see [RUNNING.md](RUNNING.md)**
+🚀 **Choose your preferred setup method:**
 
-### Quick Start
+### 🌐 GitHub Codespace (Recommended for beginners)
+**Perfect for non-coders! No installation required - runs in your browser.**
+
+📖 **[Complete GitHub Codespace Guide](CODESPACE_GUIDE.md)** - Step-by-step for beginners
+
+### 💻 Local Development
+**For developers who prefer local setup.**
+
+📖 **[Detailed Setup Instructions](RUNNING.md)** - Complete local setup guide
+
+#### Quick Start (Local)
 
 ```bash
 git clone https://github.com/sid0791/CodingIT.git
